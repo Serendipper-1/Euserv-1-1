@@ -38,4 +38,4 @@ python3 euserv_test_linux.py
 
 ### 说明
 
-如何安装python3、selenium、Chrome、chromedriver等遇到相关问题请提[issues](https://github.com/huanngy/EUserv_extend/issues)
+如何安装python3、selenium、Chrome、chromedriver等遇到相关问题请提[issues](https://github.com/hngyedu/EUserv_extend/issues)
