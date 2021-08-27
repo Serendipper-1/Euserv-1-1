@@ -10,7 +10,7 @@
 > 目前只有centos版,其他待更新...........
 
 ```shell
-wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/hngyedu/EUserv_extend@1.0/Euse1.sh && chmod +x Euse1.sh && ./Euse1.sh
+wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/hngyedu/EUserv_extend@1.1/Euse1.sh && chmod +x Euse1.sh && ./Euse1.sh
 ```
 
 > 脚本分为windows版和linux无界面版
