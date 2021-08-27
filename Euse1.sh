@@ -14,7 +14,8 @@ yum -y install python-pip
 
 pip3 install --upgrade pip
 pip3 install selenium
-
+pip3 install bs4
+pip3 install requests
 
 echo '-----安装 谷歌浏览器---'
 touch /etc/yum.repos.d/google-chrome.repo
