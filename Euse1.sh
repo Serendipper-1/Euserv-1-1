@@ -43,7 +43,7 @@ sudo chmod a+x /app/local/chromedriver
 
 echo '-------添加软连接----'
 ln -s /app/local/chromedriver  /usr/bin/chromedriver
-cd /app/local & wget https://cdn.jsdelivr.net/gh/hngyedu/EUserv_extend@1.1/euserv_test_linux.py
+cd /app/local & wget https://cdn.jsdelivr.net/gh/hngyedu/EUserv_extend/euserv_test_linux.py
 
 echo '执行测试'
 python3 euserv_test_linux.py
