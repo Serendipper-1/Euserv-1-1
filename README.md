@@ -13,6 +13,22 @@
 wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/hngyedu/EUserv_extend@1.1/Euse1.sh && chmod +x Euse1.sh && ./Euse1.sh
 ```
 
+##### Chromedriver驱动下载
+
+> 因为Chrome版本会更新这个需要手动复制linux驱动下载链接
+
+点击 [驱动下载页面](http://chromedriver.storage.googleapis.com/index.html)根据此处输出的chrome版本(大版本一致即可如4515.159也能对应4515.107)复制链接并输入即可
+
+
+
+![image-20210827085215986](https://gitee.com/liujie2021/imgre/raw/master/image-20210827085215986.png)
+
+
+
+![](https://gitee.com/liujie2021/imgre/raw/master/Snipaste_2021-08-27_08-56-18.png)
+
+![](https://gitee.com/liujie2021/imgre/raw/master/Snipaste_2021-08-27_08-46-45.png)
+
 > 脚本分为windows版和linux无界面版
 
 - euserv_test_linux.py
@@ -24,7 +40,11 @@ wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/hngyedu/EUserv_extend
 python3 euserv_test_linux.py
 ```
 
-根据自己的小鸡到期时间进行配置
+并输入输入你的德鸡邮箱或ID以及密码
+
+![](https://gitee.com/liujie2021/imgre/raw/master/Snipaste_2021-08-27_09-00-23.png)
+
+根据自己的小鸡到期时间进行配置(只需要定时运行euserv_test_linux.py即可)
 
 ![QQ截图20210826120602.png](https://gitee.com/liujie2021/imgre/raw/master/QQ截图20210826120602.png)
 
