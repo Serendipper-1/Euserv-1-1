@@ -8,8 +8,8 @@ import time
 from requests import post
 from selenium import webdriver
 
-TG_TOKEN = '1998512573:AAGV8opjbSXEBhNhKYxP11d-rfV6L1FNcJI'
-CHAT_ID = '1470843414'
+TG_TOKEN = ''   # 通过 @BotFather 申请获得
+CHAT_ID = ''      # 用户、群组或频道 ID
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument('--headless')
 chrome_options.add_argument('--disable-gpu')
@@ -74,11 +74,8 @@ if __name__ == '__main__':
     j = 0
     n = 1
     login1 = [
-        'j@liujie.ml','DecWbSax2jT5535',
-        'kuxaiojie@yandex.ru','kujie2001',
-        'vandixonc85@ksu.edu.bi','kujie2001',
-        'liulimy@yandex.com','kujie2001',
-        'admcay@yandex.com','kujie2001'
+        'admin@admin.com','123456',   # 在此处填写用户名或密码 示例
+        'XXXX','XXXX',
     ]
     le = int(len(login1)/2)
     for i in range(le):
