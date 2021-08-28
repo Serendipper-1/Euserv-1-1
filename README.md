@@ -3,6 +3,8 @@
 
 ------
 
+⚠️提醒：这里使用德鸡vps自己续期自己嘻嘻,全部环境使用较为干净的真实浏览器,较为安全,不过鉴于德鸡现在的负载,一键脚本安装请耐心等待~
+
 ### 脚本使用
 
 ##### 一键安装脚本(主要是selenium等环境的搭建和测试环境,执行一次就可,主要是测试使用环境是否能够运行)
@@ -38,6 +40,13 @@ wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/hngyedu/EUserv_extend
 
 ```python
 python3 euserv_test_linux.py
+```
+
+新增 TG 推送 机器人
+
+```
+# 通过@BotFather 申请获得
+# 用户、群组或频道 ID
 ```
 
 并输入输入你的德鸡邮箱或ID以及密码
