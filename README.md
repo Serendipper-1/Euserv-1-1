@@ -49,9 +49,15 @@ python3 euserv_test_linux.py
 # 用户、群组或频道 ID
 ```
 
+输入你的TG ID 和token
+
 并输入输入你的德鸡邮箱或ID以及密码
 
-![](https://gitee.com/liujie2021/imgre/raw/master/Snipaste_2021-08-27_09-00-23.png)
+![image-20210828165858010](https://gitee.com/liujie2021/imgre/raw/master/image-20210828165858010.png)
+
+![](https://gitee.com/liujie2021/imgre/raw/master/QQ%E6%88%AA%E5%9B%BE20210828165605.png)
+
+
 
 根据自己的小鸡到期时间进行配置(只需要定时运行euserv_test_linux.py即可)
 
