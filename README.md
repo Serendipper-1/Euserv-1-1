@@ -9,7 +9,7 @@
 
 ##### 一键安装脚本(主要是selenium等环境的搭建和测试环境,执行一次就可,主要是测试使用环境是否能够运行)
 
-> 目前只有centos版,其他待更新...........
+> 目前只有centos版,其他待更新........... 支持多个账号
 
 ```shell
 wget -N --no-check-certificate https://cdn.jsdelivr.net/gh/hngyedu/EUserv_extend/Euse1.sh && chmod +x Euse1.sh && ./Euse1.sh
