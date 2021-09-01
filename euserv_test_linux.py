@@ -18,8 +18,8 @@ from selenium.webdriver.support.select import Select
 from selenium.webdriver.support.wait import WebDriverWait
 
 # 创建一个参数对象，用来控制chrome以无界面模式打开
-TG_TOKEN = '1998512573:AAGV8opjbSXEBhNhKYxP11d-rfV6L1FNcJI'
-CHAT_ID = '1470843414'
+TG_TOKEN = 'XXXXX'
+CHAT_ID = 'XXXXX'
 driver = webdriver.Chrome()
 def post_tg(message):
     telegram_message = f"{message}"
@@ -88,8 +88,8 @@ if __name__ == '__main__':
     j = 0
     n = 1
     login1 = [
-        'admin@liujie.ml','kujie2001',
-        'kuxiaojie@yandex.com','kujie2001'
+        'XXXX','XXX',
+        'XXX','XXX'
     ]
     for i in range(2):
         login(login1[j], login1[n])
