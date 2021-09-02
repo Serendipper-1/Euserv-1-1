@@ -35,6 +35,24 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/hngyedu/EUserv_
 
 ![](https://gitee.com/liujie2021/imgre/raw/master/Snipaste_2021-08-27_08-46-45.png)
 
+输入后 会出现vi编辑器来编辑py文件输入自己的TG机器人的ID与Token 以及自己的德鸡账号密码
+
+> 具体操作: 输入i进入编辑模式然后将光标定位到XXX删除并修改使用方向键定位,输入完以后按Esc退出输入模式并输入:wq保存退出回车
+
+![Xshell_wNa0XaM3Vk](https://gitee.com/liujie2021/imgre/raw/master/Xshell_wNa0XaM3Vk.png)
+
+
+
+![Xshell_wrF633XUMQ](C:\Users\kuxiaojie\Documents\ShareX\Screenshots\2021-09\Xshell_wrF633XUMQ.png)
+
+
+
+
+
+
+
+
+
 > 脚本分为windows版和linux无界面版
 
 - euserv_test_linux.py
