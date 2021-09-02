@@ -41,6 +41,7 @@ unzip chromedriver_linux64.zip
 sudo chmod a+x chromedriver
 
 echo '-------添加软连接----'
+cd
 cd /root & wget https://pan.ruance.me/show/1/euserv_test_linux.py
 echo '执行测试'
 vi euserv_test_linux.py
