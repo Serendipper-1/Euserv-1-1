@@ -91,7 +91,8 @@ if __name__ == '__main__':
         'XXXX','XXX',
         'XXX','XXX'
     ]
-    for i in range(2):
+    le = int(len(login1)/2)
+    for i in range(le):
         login(login1[j], login1[n])
         j = j+2
         n = n+2
