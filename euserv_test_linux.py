@@ -96,4 +96,4 @@ if __name__ == '__main__':
         login(login1[j], login1[n])
         j = j+2
         n = n+2
-
+driver.quit()
