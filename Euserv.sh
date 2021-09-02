@@ -1,5 +1,4 @@
 o '----开始 yum 升级---'
-yum -y  update
 
 #安装 wget
 yum -y install wget
