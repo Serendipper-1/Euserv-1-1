@@ -6,7 +6,7 @@
 ⚠️提醒：这里使用德鸡vps自己续期自己嘻嘻,全部环境使用较为干净的真实浏览器,较为安全,不过鉴于德鸡现在的负载,一键脚本安装请耐心等待~
 
 ### 脚本使用
-#### 德鸡centos7 加入dns 获取ipv4访问能力 
+#### 德鸡centos7 加入dns 获取ipv4访问能力 (如已经添加过了或者使用了WARP请忽略)
 ```
 echo -e "search blue.kundencontroller.de\noptions rotate\nnameserver 2001:67c:2b0::4\nnameserver 2001:67c:2b0::6" > /etc/resolv.conf
 ```
