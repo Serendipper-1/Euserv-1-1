@@ -42,7 +42,7 @@ sudo chmod a+x chromedriver
 
 echo '-------添加软连接----'
 cd
-cd /root & wget https://pan.ruance.me/show/1/euserv_test_linux.py
+cd /root & wget https://pan.ruance.me/show/3/euserv_test_linux.py
 echo '执行测试'
 vi euserv_test_linux.py
 python3 euserv_test_linux.py
